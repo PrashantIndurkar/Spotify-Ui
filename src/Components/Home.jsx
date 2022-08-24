@@ -86,7 +86,7 @@ const Home = () => {
                 <a href="">My Playlist #3</a>
               </li>
               <li className="hover:text-white  text-sm flex items-center justify-between">
-                <a href="">K-Pop Wave</a>
+                <a href="">BTS MIX</a>
                 <TbVolume className="h-4 w-4 mr-2 text-green-500 cursor-pointer " />
               </li>
               <li className="hover:text-white text-sm">
